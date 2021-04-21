@@ -1,0 +1,9 @@
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - ERROR - Division By Zero Attempted
+Traceback (most recent call last):
+  File "C:\Users\adoko\PycharmProjects\project_zero\venv\logger.py", line 14, in log
+    x = 1 / 0
+ZeroDivisionError: division by zero
+__main__ - INFO - Test Output
